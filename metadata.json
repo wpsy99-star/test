@@ -1,0 +1,6 @@
+{
+  "name": "중랑구 맛집 탐방",
+  "description": "중랑구 주민과 학생들이 추천하는 동네 로컬 찐 맛집 10선 및 오늘 점심 뭐 먹지 랜덤 룰렛 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
